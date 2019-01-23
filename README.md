@@ -108,7 +108,7 @@ The training schedule, learning rate, and other parameters should be set in `sam
 
 # Training on Your Own Dataset
 
-Start by reading this [blog post about the balloon color splash sample](https://engineering.matterport.com/splash-of-color-instance-segmentation-with-mask-r-cnn-and-tensorflow-7c761e238b46). It covers the process starting from annotating images to training to using the results in a sample application.
+ Start by reading this [blog post about the balloon color splash sample](https://engineering.matterport.com/splash-of-color-instance-segmentation-with-mask-r-cnn-and-tensorflow-7c761e238b46). It covers the process starting from annotating images to training to using the results in a sample application.
 
 In summary, to train the model on your own dataset you'll need to extend two classes:
 
